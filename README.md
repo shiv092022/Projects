@@ -6,4 +6,5 @@ Such tactics present formidable obstacles for traditional law enforcement method
 This project wants to make a new system using StyleGAN3 and other tricks to help police do a better job catching criminals.
 This application will help Police to visualize different facial hairs transformation of Criminals in real-time and help police to circulate pictures of Criminals to different locations and makes polices and peoples to be alert.
 
+![image](https://github.com/shiv092022/StyleGANProject/assets/106577173/91b0ecde-62cd-4979-bed1-afdfffab2806)
 
